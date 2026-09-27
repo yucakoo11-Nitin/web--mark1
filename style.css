@@ -1,0 +1,56 @@
+h1{
+    font-size: 80px;
+    margin:50px;
+    color:cadetblue
+    
+}
+h2{
+    font-size:50px;
+    margin:30px;
+
+    color:aliceblue
+}
+h3{
+    font-size:35px;
+    margin:30px;
+    color:azure
+}
+h4{
+    font-size:40px;
+    margin:30px;
+    color:azure
+}
+
+ul{
+    font-size:35px;
+    margin:50px;
+    color:rgb(215, 255, 255);
+    
+ 
+
+}
+li:hover{
+       padding:3px;
+       margin:30;
+       border:3px solid;
+       width:180px;
+       border-radius:350px;
+       border-style:groove;
+       transition:0.7s;
+       margin-bottom:75px;
+       
+       
+}
+body{
+    
+    background-color:black;
+    font-family:'Courier New', Courier, monospace
+    
+}
+a{
+    text-decoration:none;
+    color:bisque;
+    font-size:35px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
